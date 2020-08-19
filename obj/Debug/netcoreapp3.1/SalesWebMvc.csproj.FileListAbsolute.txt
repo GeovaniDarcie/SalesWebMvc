@@ -63,3 +63,4 @@ C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departm
 C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Create.cshtml.g.cs

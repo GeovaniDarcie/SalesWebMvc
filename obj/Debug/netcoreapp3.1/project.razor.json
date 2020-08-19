@@ -14244,6 +14244,11 @@
       "FilePath": "c:\\Users\\andre\\Documents\\SalesWebMvc\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\andre\\Documents\\SalesWebMvc\\Views\\Sellers\\Create.cshtml",
+      "TargetPath": "Views\\Sellers\\Create.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
