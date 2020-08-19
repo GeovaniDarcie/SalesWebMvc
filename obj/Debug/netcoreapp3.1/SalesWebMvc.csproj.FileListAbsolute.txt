@@ -60,3 +60,6 @@ C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departm
 C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Delete.cshtml.g.cs
 C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Details.cshtml.g.cs
 C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Index.cshtml.g.cs
