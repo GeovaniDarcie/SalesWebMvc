@@ -66,3 +66,4 @@ C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers
 C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Create.cshtml.g.cs
 C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Details.cshtml.g.cs
+C:\Users\andre\Documents\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Edit.cshtml.g.cs

@@ -14256,6 +14256,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\andre\\Documents\\SalesWebMvc\\Views\\Sellers\\Edit.cshtml",
+      "TargetPath": "Views\\Sellers\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\andre\\Documents\\SalesWebMvc\\Views\\Sellers\\Create.cshtml",
       "TargetPath": "Views\\Sellers\\Create.cshtml",
       "FileKind": "mvc"
