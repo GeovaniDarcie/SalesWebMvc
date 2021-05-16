@@ -6,5 +6,5 @@
 ####  How to run:
 1. Have a connection to the mysql database.
 2. At the project terminal: 
-   `npm restore`
-   `npm run`
+   `dotnet restore`
+   `dotnet run`
